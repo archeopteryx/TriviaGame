@@ -1,6 +1,6 @@
 $("#quizStart").on("click", startQuizzing);
 
-var timerNumber = 20;
+var timerNumber = 180;
 var intervalId;
 var q1Correct = false;
 var q2Correct = false;
