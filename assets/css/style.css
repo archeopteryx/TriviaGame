@@ -1,0 +1,26 @@
+body {
+	font-family: 'Orbitron', sans-serif;
+	background: #fff url(https://cdn.spacetelescope.org/archives/images/large/heic0916a.jpg);
+	color: #39FF14;
+
+}
+
+header {
+	margin-top: 40px;
+	text-align: center;
+}
+
+#quizStart {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 15px 30px;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 30px;
+	margin-top: 50px;
+	text-align: center;
+	margin-left: 40%;
+	margin-right: 40%;
+
+}
+
